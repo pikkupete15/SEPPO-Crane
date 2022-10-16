@@ -2,3 +2,4 @@ Täältä löytyy kytkentäkaaviot, BOM, sekä levyjen GRBR-tiedostot. Kaikki le
 Folion paksuus 35µm 
 
 Slave- ja Master-laitteiden levyt ovat identtisiä. Ohjelmalla valitaan joko Slave- tai Master-moodi.
+![alt text](https://github.com/pikkupete15/SEPPO-Crane/edit/main/Elektroniikka/)
